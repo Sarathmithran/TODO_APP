@@ -150,3 +150,9 @@ h3 {
 .task-text button:hover {
   color: red;
 }
+.delete-icon:hover {
+  fill: red; 
+}
+.edit-icon:hover{
+  fill: rgb(5, 209, 5);
+}
